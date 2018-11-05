@@ -3,7 +3,7 @@
 [Update]
 Name = ADMLOJA
 ProductVersion = 1.7.0
-URL = https://github.com/precisaosistemas/admempresa/releases/download/v1.7.0/admloja-1.7.0.exe
+URL = https://github.com/precisaosistemas/admloja/releases/download/v1.7.0/admloja-1.7.0.exe
 Size = 18061192
 MD5 = ee9823a52f6ae744b55dcdf8a14d2b4c
 CommandLine = /exenoui /qn
