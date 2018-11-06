@@ -4,8 +4,8 @@
 Name = ADMLOJA
 ProductVersion = 1.7.0
 URL = https://github.com/precisaosistemas/admloja/releases/download/v1.7.0/admloja-1.7.0.exe
-Size = 18061192
-MD5 = ee9823a52f6ae744b55dcdf8a14d2b4c
+Size = 54998704
+MD5 = d858b4adb87ba7757fb3df7e9e839f20
 CommandLine = /exenoui /qn
 ServerFileName = admloja-1.7.0.exe
 Flags = SilentInstall|NoRedetect
