@@ -2,12 +2,12 @@
 
 [Update]
 Name = ADMLOJA
-ProductVersion = 1.39.5
-URL = https://github.com/precisaosistemas/admloja/releases/download/v1.39.5/admloja-1.39.5.exe
-Size = 12192202
-MD5 = e0f51d118f9d0e2e5cbe68522b8ffefe
+ProductVersion = 1.39.6
+URL = https://github.com/precisaosistemas/admloja/releases/download/v1.39.6/admloja-1.39.6.exe
+Size = 12196163
+MD5 = 13545f280ee7b1ea6909f6301b414ad7
 CommandLine = /exenoui /qn
-ServerFileName = admloja-1.39.5.exe
+ServerFileName = admloja-1.39.6.exe
 Flags = SilentInstall|NoRedetect
 RegistryKey = HKUD\Software\Precisao Sistemas\ADMLoja\Version
-Version = 1.39.5
+Version = 1.39.6
